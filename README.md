@@ -1,11 +1,9 @@
-This is a README for developer-wiki
+# Developer-Wiki
 
-## Javascript read more [here](./js)
+## [Javascript](./js)
 
-Read more [here](./MacOS/shortCuts.md) # It works!
+## [Typescript](./ts/)
 
-## Typescript
+## [MacOS](./MacOS/)
 
-## MacOS
-
-## vsCode
+## [vsCode](./vsCode/)
